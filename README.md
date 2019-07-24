@@ -27,7 +27,7 @@ Información inicial con base al *Curso de Inversión en Criptomonedas* de platz
 - [Portafolios de inversión](#Portafolios-de-inversión).
 - [Encontrar ICOs](#Encontrar-ICOs).
 - [Coinmarketcap](#Coinmarketcap).
-- [Telegram: Grupos y canales](#Telegram:-Grupos-y-canales).
+- [Telegram Grupos y canales](#Telegram-Grupos-y-canales).
 - [Airdrops y Bounties](#Airdrops-y-Bounties).
 - [Hardforks](#Hardforks).
 - [Estafas, pirámides y esquemas Ponzi](#Estafas,-pirámides-y-esquemas-Ponzi).
@@ -378,7 +378,7 @@ Y una la lista de las más de 1500 criptomonedas / tokens registradas con datos 
 - Variación.
 - Gráfico del Precio (7d).
 
-## Telegram: Grupos y canales
+## Telegram Grupos y canales
 
 [Telegram](https://telegram.org) es una aplicación para estar en contacto con grupos y personas que conocen mucho sobre el mundo Cripto. Descarga Telegram para estar en contacto con canales y personas en todo el mundo relacionados al Criptomundo.
 
